@@ -2,7 +2,7 @@
 template: BlogPost
 path: /solidity-for-beginners
 date: 2022-03-09T22:11:32.556Z
-title: 'How to start learning solidity for beginners '
+title: 'This is how i learnt solidity,You should too!!'
 thumbnail: /assets/solidity.png
 ---
 ``
