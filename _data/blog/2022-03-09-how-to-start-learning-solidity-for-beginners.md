@@ -11,7 +11,7 @@ thumbnail: '/assets/How i learnt solidity, why you must learn too! (1).png'
 
 With solidity you can create contracts for uses such as voting,crowdfunding,blind auctions and multi-signature wallets.
 
-Following things we will be using to write solidity programming:
+We will be using following things to write solidity programming:
 
 * Remix IDE (Recommended)
 
