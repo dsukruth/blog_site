@@ -7,4 +7,12 @@ thumbnail: '/assets/How i learnt solidity, why you must learn too! (1).png'
 ---
 **What is solidity?**
 
-> Solidity is an object-oriented programming language for implementing smart contracts.It is also high-level statically typed programming language
+> Solidity is an object-oriented programming language for implementing smart contracts.It is also high-level statically typed programming language.
+
+With solidity you can create contracts for uses such as voting,crowdfunding,blind auctions and multi-signature wallets.
+
+Following things we will be using to write solidity programming:
+
+* Remix IDE (Recommended)
+
+  You will find the link online REMIX IDE below
