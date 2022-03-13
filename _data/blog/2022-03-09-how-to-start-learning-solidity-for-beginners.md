@@ -18,3 +18,9 @@ We will be using following things to write solidity programming:
   You will find the link online REMIX IDE below
 
   [https://remix.ethereum.org/](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
+
+### Solidity compilation steps:
+
+Look at the below the block diagram:
+
+![Block-diagram of compilation steps](/assets/Screenshot from 2022-03-13 23-14-54.png "SOLIDITY COMPILATION STEPS")
