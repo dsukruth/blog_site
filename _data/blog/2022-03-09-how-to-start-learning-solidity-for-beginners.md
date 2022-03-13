@@ -24,3 +24,10 @@ We will be using following things to write solidity programming:
 Look at the below the block diagram:
 
 ![Block-diagram of compilation steps](/assets/Screenshot from 2022-03-13 23-14-54.png "SOLIDITY COMPILATION STEPS")
+
+Source.sol is a solidity file so we store solidity code in the format of (.sol)
+
+The Source file when you hit enter converts into 2 major code
+
+* ABI
+* Byte Code
